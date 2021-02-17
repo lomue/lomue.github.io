@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>News on OMUE&#39;s@LITEC</title>
+    <link>/news/</link>
+    <description>Recent content in News on OMUE&#39;s@LITEC</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Tue, 16 Feb 2021 00:00:00 +0000</lastBuildDate><atom:link href="/news/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Warteschlangentheorie in News</title>
+      <link>/news/warteschlangentheorie/</link>
+      <pubDate>Tue, 16 Feb 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/news/warteschlangentheorie/</guid>
+      <description>Warteschlangentheorie Einführung Die Warteschlangentheorie kann zur Analyse unterschiedlicher Systeme genutzt werden. Dazu gehören beispielsweise:
+ Fertigungsstraßen in Betrieben Logistiksysteme Telekommunikationssysteme und Computer Verkehrs- und Infrastruktursysteme  Das Ziel der Warteschlangentheorie ist die Ermittlung von Wartezeiten innerhalb des Systems zur Optimierung der gesamten Abläufe. In der Regel sollen damit die Gesamtkosten des Systems minimiert werden, um das Unternehmen effektiver zu machen.
+Es werden unter anderem Vorgänge betrachtet, bei denen bestimmte Einheiten oder Transaktionen in unregelmäßigen oder unkontrollierbaren Abständen auf Engpässe treffen.</description>
+    </item>
+    
+    <item>
+      <title>Creating a New Theme ANO</title>
+      <link>/news/creating-a-new-theme/</link>
+      <pubDate>Sun, 28 Sep 2014 00:00:00 +0000</pubDate>
+      
+      <guid>/news/creating-a-new-theme/</guid>
+      <description>Introduction This tutorial will show you how to create a simple theme in Hugo. I assume that you are familiar with HTML, the bash command line, and that you are comfortable using Markdown to format content. I&amp;rsquo;ll explain how Hugo uses templates and how you can organize your templates to create a theme. I won&amp;rsquo;t cover using CSS to style your theme.
+We&amp;rsquo;ll start with creating a new site with a very basic template.</description>
+    </item>
+    
+  </channel>
+</rss>
