@@ -5,7 +5,18 @@
     <link>/categories/winf/</link>
     <description>Recent content in WINF on OMUE&#39;s@LITEC</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Sat, 30 Jan 2021 00:00:00 +0000</lastBuildDate><atom:link href="/categories/winf/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 02 Feb 2021 00:00:00 +0000</lastBuildDate><atom:link href="/categories/winf/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Produktionsprozess mit Odoo</title>
+      <link>/post/odoo_labor/</link>
+      <pubDate>Tue, 02 Feb 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/post/odoo_labor/</guid>
+      <description>ERP System &amp;ldquo;Odoo&amp;rdquo; Produktion / Fertigung Fertigung ist grundsätzlich nur eine weitere &amp;ldquo;Route&amp;rdquo; wie Produkte beschafft werden können.
+MakeToOrder und MakeToStock sind möglich (und alle Unterarten wie AssebleToOrder, etc)
+Stammdaten  Alle Stammdaten der anderen Module (Verkauf, Einkauf, Artikel, etc) Stücklisten (BoM)  Set (Bausatz) Stücklisten für Produktion   Arbeitsplätze Arbeitspläne  Vorbedingungen, Vorbereitungen  alle Komponenten welche in BoM eingehen müssen als Produkte angelegt sein Arbeitsplätze anlegen  Alle in den Arbeitsplänen als Ressourcen angelegte Arbeitsplätze, Abteilungen, etc.</description>
+    </item>
+    
     <item>
       <title>Flussdiagramme</title>
       <link>/post/flussdiagramme/</link>

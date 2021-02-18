@@ -5,29 +5,20 @@
     <link>/categories/</link>
     <description>Recent content in Categories on OMUE&#39;s@LITEC</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Tue, 02 Feb 2021 00:00:00 +0000</lastBuildDate><atom:link href="/categories/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 18 Feb 2021 00:00:00 +0000</lastBuildDate><atom:link href="/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>BET</title>
       <link>/categories/bet/</link>
-      <pubDate>Tue, 02 Feb 2021 00:00:00 +0000</pubDate>
+      <pubDate>Thu, 18 Feb 2021 00:00:00 +0000</pubDate>
       
       <guid>/categories/bet/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Labor</title>
-      <link>/categories/labor/</link>
-      <pubDate>Tue, 02 Feb 2021 00:00:00 +0000</pubDate>
-      
-      <guid>/categories/labor/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Grundlagen</title>
       <link>/categories/grundlagen/</link>
-      <pubDate>Sat, 30 Jan 2021 00:00:00 +0000</pubDate>
+      <pubDate>Thu, 18 Feb 2021 00:00:00 +0000</pubDate>
       
       <guid>/categories/grundlagen/</guid>
       <description></description>
@@ -36,27 +27,9 @@
     <item>
       <title>WINF</title>
       <link>/categories/winf/</link>
-      <pubDate>Sat, 30 Jan 2021 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 02 Feb 2021 00:00:00 +0000</pubDate>
       
       <guid>/categories/winf/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Development</title>
-      <link>/categories/development/</link>
-      <pubDate>Mon, 16 Apr 2018 00:00:00 +0000</pubDate>
-      
-      <guid>/categories/development/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>golang</title>
-      <link>/categories/golang/</link>
-      <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
-      
-      <guid>/categories/golang/</guid>
       <description></description>
     </item>
     

@@ -5,7 +5,34 @@
     <link>/categories/bet/</link>
     <description>Recent content in BET on OMUE&#39;s@LITEC</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Tue, 02 Feb 2021 00:00:00 +0000</lastBuildDate><atom:link href="/categories/bet/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 18 Feb 2021 00:00:00 +0000</lastBuildDate><atom:link href="/categories/bet/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Klassifikation von Produktionsprozessen</title>
+      <link>/post/klassifikation_produktionsprozesse/</link>
+      <pubDate>Thu, 18 Feb 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/post/klassifikation_produktionsprozesse/</guid>
+      <description>Klassifikation von Produktionsprozessen Generelle Unterscheidung in
+ Güterproduktion Dienstleistungsproduktion  Güterproduktion Kriterien für Klassifizierung Outputbezogene Produktionstypen Erzeugnisstruktur Erzeugnisstruktur ist in den Stücklisten dargestellt
+ Lineare Struktur Konvergierende Struktur Divergierende Struktur Generelle Struktur  Gestalt der Güter   Ungeformte Fließgüter
+  nicht determiniert in Höhe, Breite, Länge
+  Geformte Fließgüter
+  determiniert in Höhe, Breite
+  Stückgüter
+ determiniert in Höhe, Breite, Länge    Anzahl der Erzeugnisse  Einprodukt Produktion  ein einziges Produkt als Massenprodukt (Benzin, Diesel)   Mehrprodukt Produktion  mehrere Produktarten    Auflagengröße Massenproduktion: zeitlich nicht begrenzt, große Mengen, Automatisierung</description>
+    </item>
+    
+    <item>
+      <title>Warteschlangentheorie</title>
+      <link>/post/warteschlangentheorie/</link>
+      <pubDate>Thu, 18 Feb 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/post/warteschlangentheorie/</guid>
+      <description>Warteschlangentheorie Einführung Die Warteschlangentheorie kann zur Analyse unterschiedlicher Systeme genutzt werden. Dazu gehören beispielsweise:
+ Fertigungsstraßen in Betrieben Logistiksysteme Telekommunikationssysteme und Computer Verkehrs- und Infrastruktursysteme  Das Ziel der Warteschlangentheorie ist die Ermittlung von Wartezeiten innerhalb des Systems zur Optimierung der gesamten Abläufe. In der Regel sollen damit die Gesamtkosten des Systems minimiert werden, um das Unternehmen effektiver zu machen.
+Es werden unter anderem Vorgänge betrachtet, bei denen bestimmte Einheiten oder Transaktionen in unregelmäßigen oder unkontrollierbaren Abständen auf Engpässe treffen.</description>
+    </item>
+    
     <item>
       <title>Produktionsprozess mit Odoo</title>
       <link>/post/odoo_labor/</link>
