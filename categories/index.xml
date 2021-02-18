@@ -5,13 +5,40 @@
     <link>/categories/</link>
     <description>Recent content in Categories on OMUE&#39;s@LITEC</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Tue, 16 Feb 2021 00:00:00 +0000</lastBuildDate><atom:link href="/categories/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 02 Feb 2021 00:00:00 +0000</lastBuildDate><atom:link href="/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>BET</title>
       <link>/categories/bet/</link>
-      <pubDate>Tue, 16 Feb 2021 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 02 Feb 2021 00:00:00 +0000</pubDate>
       
       <guid>/categories/bet/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Labor</title>
+      <link>/categories/labor/</link>
+      <pubDate>Tue, 02 Feb 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/categories/labor/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Grundlagen</title>
+      <link>/categories/grundlagen/</link>
+      <pubDate>Sat, 30 Jan 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/categories/grundlagen/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>WINF</title>
+      <link>/categories/winf/</link>
+      <pubDate>Sat, 30 Jan 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/categories/winf/</guid>
       <description></description>
     </item>
     

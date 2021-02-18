@@ -5,40 +5,59 @@
     <link>/</link>
     <description>Recent content on OMUE&#39;s@LITEC</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Tue, 16 Feb 2021 00:00:00 +0000</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 02 Feb 2021 00:00:00 +0000</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Test Warteschlangentheorie in Posts</title>
-      <link>/post/test-einer-neuen-linkseite/</link>
-      <pubDate>Tue, 16 Feb 2021 00:00:00 +0000</pubDate>
+      <title>About LOMUE&#39;s@LITEC</title>
+      <link>/home/</link>
+      <pubDate>Wed, 17 Feb 2021 00:00:00 +0000</pubDate>
       
-      <guid>/post/test-einer-neuen-linkseite/</guid>
-      <description>Test einer neuen Linkseite
-Test mit html neuer Test
-neuer Test mit html
-3.ter Test
-3.ter test mit html</description>
+      <guid>/home/</guid>
+      <description>Sie finden in Form eines Blogs Unterrichtsmaterialien für die Fächer
+ Betriebstechnik (BET) Wirtschaftinformatik (WINF) Führungstechnik (FT)  Die Inhalte sind dabei so angelegt, dass die Materialen als Unterstützung für den Unterricht - als roter Faden - dienen. Sie sind also eher wie eine Powerpointpräsentation mit ganz viel Text (soll man ja nicht machen) zu verstehen.
+ Aufpassen, Fragen stellen, diskutieren und üben sind also - natürlich - erforderlich.
+ Technisch gesehen habe ich die Form von</description>
     </item>
     
     <item>
-      <title>Test Warteschlangentheorie in Posts</title>
-      <link>/post/warteschlangentheorie/</link>
-      <pubDate>Tue, 16 Feb 2021 00:00:00 +0000</pubDate>
+      <title>Produktionsprozess mit Odoo</title>
+      <link>/post/odoo_labor/</link>
+      <pubDate>Tue, 02 Feb 2021 00:00:00 +0000</pubDate>
       
-      <guid>/post/warteschlangentheorie/</guid>
-      <description>Warteschlangentheorie Einführung Die Warteschlangentheorie kann zur Analyse unterschiedlicher Systeme genutzt werden. Dazu gehören beispielsweise: • Fertigungsstraßen in Betrieben • Logistiksysteme • Telekommunikationssysteme und Computer • Verkehrs- und Infrastruktursysteme
-Das Ziel der Warteschlangentheorie ist die Ermittlung von Wartezeiten innerhalb des Systems zur Optimierung der gesamten Abläufe. In der Regel sollen damit die Gesamtkosten des Systems minimiert werden, um das Unternehmen effektiver zu machen.
-Es werden unter anderem Vorgänge betrachtet, bei denen bestimmte Einheiten oder Transaktionen in unregelmäßigen oder unkontrollierbaren Abständen auf Engpässe treffen.</description>
+      <guid>/post/odoo_labor/</guid>
+      <description>ERP System &amp;ldquo;Odoo&amp;rdquo; Produktion / Fertigung Fertigung ist grundsätzlich nur eine weitere &amp;ldquo;Route&amp;rdquo; wie Produkte beschafft werden können.
+MakeToOrder und MakeToStock sind möglich (und alle Unterarten wie AssebleToOrder, etc)
+Stammdaten  Alle Stammdaten der anderen Module (Verkauf, Einkauf, Artikel, etc) Stücklisten (BoM)  Set (Bausatz) Stücklisten für Produktion   Arbeitsplätze Arbeitspläne  Vorbedingungen, Vorbereitungen  alle Komponenten welche in BoM eingehen müssen als Produkte angelegt sein Arbeitsplätze anlegen  Alle in den Arbeitsplänen als Ressourcen angelegte Arbeitsplätze, Abteilungen, etc.</description>
     </item>
     
     <item>
-      <title>Warteschlangentheorie in News</title>
-      <link>/news/warteschlangentheorie/</link>
-      <pubDate>Tue, 16 Feb 2021 00:00:00 +0000</pubDate>
+      <title>Aufgabensammlung ERP Odoo</title>
+      <link>/post/aufgaben_erp/</link>
+      <pubDate>Sat, 30 Jan 2021 00:00:00 +0000</pubDate>
       
-      <guid>/news/warteschlangentheorie/</guid>
-      <description>Warteschlangentheorie Einführung Die Warteschlangentheorie kann zur Analyse unterschiedlicher Systeme genutzt werden. Dazu gehören beispielsweise:
- Fertigungsstraßen in Betrieben Logistiksysteme Telekommunikationssysteme und Computer Verkehrs- und Infrastruktursysteme  Das Ziel der Warteschlangentheorie ist die Ermittlung von Wartezeiten innerhalb des Systems zur Optimierung der gesamten Abläufe. In der Regel sollen damit die Gesamtkosten des Systems minimiert werden, um das Unternehmen effektiver zu machen.
-Es werden unter anderem Vorgänge betrachtet, bei denen bestimmte Einheiten oder Transaktionen in unregelmäßigen oder unkontrollierbaren Abständen auf Engpässe treffen.</description>
+      <guid>/post/aufgaben_erp/</guid>
+      <description>Aufgabensammlung ERP Odoo  Wie lautet der Aufruf (Link, URL) des ERP Programms und wie lautet Ihr Benutzerzugang?  Wie lautet Ihr Username – ggf. ändern Sie diesen (Mailadresse und Username sollen nicht gleich sein) Welche Kontakte sind als Kunden angelegt, welche als Lieferanten? (vom User LOMUE) Bei welcher Bank hat der Lomue_Lieferant 2 sein Konto liegen? Welche Kontonummer?  Legen Sie eine neue Zahlungsbedingung an - 21 Tage 5% Skonto / 30 Tage netto Wie lautet die Lieferbedingung für &amp;ldquo;der Käufer übernimmt alle Gefahren&amp;rdquo;?</description>
+    </item>
+    
+    <item>
+      <title>Flussdiagramme</title>
+      <link>/post/flussdiagramme/</link>
+      <pubDate>Sat, 30 Jan 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/post/flussdiagramme/</guid>
+      <description>Flussdiagramme Ein Flussdiagramm oder auch Ablaufdiagramm bezeichnet, veranschaulicht in der Organisationslehre einen Arbeitsablauf, indem es eine Abfolge von Entscheidungen und Anweisungen vorschreibt. Üblicherweise entspricht dabei ein Symbol im Diagramm einem Zustand oder einem Zustandswechsel, und ein konkreter Ablauf entspricht einem Pfad durch das Diagramm. Üblicherweise enthält ein Ablaufdiagramm optionale Pfade und somit fallspezifische Anweisungen.
+Neben der Illustration von Algorithmen eignen sich Ablaufdiagramme zur Darstellung von Prozessen und Tätigkeiten, beispielsweise zur Entscheidungsfindung in Reparaturanleitungen, zur Darstellung von Geschäftsmodellen und in der medizinischen Diagnostik.</description>
+    </item>
+    
+    <item>
+      <title>About LOMUE&#39;s@LITEC</title>
+      <link>/about/</link>
+      <pubDate>Wed, 09 Dec 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/about/</guid>
+      <description>Sie finden in Form eines Blogs Unterrichtsmaterialien für die Fächer
+ Betriebstechnik (BET) Wirtschaftinformatik (WINF) Führungstechnik (FT)  Die Inhalte sind dabei so angelegt, dass die Materialen als Unterstützung für den Unterricht - als roter Faden - dienen. Sie sind also eher wie eine Powerpointpräsentation mit ganz viel Text (soll man ja nicht machen) zu verstehen.
+ Aufpassen, Fragen stellen, diskutieren und üben sind also - natürlich - erforderlich.
+ Technisch gesehen habe ich die Form von</description>
     </item>
     
     <item>
@@ -58,29 +77,6 @@ Es werden unter anderem Vorgänge betrachtet, bei denen bestimmte Einheiten oder
       <guid>/post/creating-a-new-theme/</guid>
       <description>Introduction This tutorial will show you how to create a simple theme in Hugo. I assume that you are familiar with HTML, the bash command line, and that you are comfortable using Markdown to format content. I&amp;rsquo;ll explain how Hugo uses templates and how you can organize your templates to create a theme. I won&amp;rsquo;t cover using CSS to style your theme.
 We&amp;rsquo;ll start with creating a new site with a very basic template.</description>
-    </item>
-    
-    <item>
-      <title>Creating a New Theme ANO</title>
-      <link>/news/creating-a-new-theme/</link>
-      <pubDate>Sun, 28 Sep 2014 00:00:00 +0000</pubDate>
-      
-      <guid>/news/creating-a-new-theme/</guid>
-      <description>Introduction This tutorial will show you how to create a simple theme in Hugo. I assume that you are familiar with HTML, the bash command line, and that you are comfortable using Markdown to format content. I&amp;rsquo;ll explain how Hugo uses templates and how you can organize your templates to create a theme. I won&amp;rsquo;t cover using CSS to style your theme.
-We&amp;rsquo;ll start with creating a new site with a very basic template.</description>
-    </item>
-    
-    <item>
-      <title>About Hugo</title>
-      <link>/about/</link>
-      <pubDate>Wed, 09 Apr 2014 00:00:00 +0000</pubDate>
-      
-      <guid>/about/</guid>
-      <description>Hugo is a static site engine written in Go.
-It makes use of a variety of open source projects including:
- Cobra Viper J Walter Weatherman Cast  Learn more and contribute on GitHub.
-Setup Some fun facts about Hugo:
- Built in Go Loosely inspired by Jekyll Primarily developed by spf13 on the train while commuting to and from Manhattan. Coded in Vim using spf13-vim  Have questions or suggestions?</description>
     </item>
     
     <item>
@@ -124,16 +120,6 @@ Follow the following steps:
     
     <item>
       <title></title>
-      <link>/post/flussdiagramme/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/post/flussdiagramme/</guid>
-      <description>Flussdiagramme Ein Flussdiagramm oder auch Ablaufdiagramm bezeichnet, veranschaulicht in der Organisationslehre einen Arbeitsablauf, indem es eine Abfolge von Entscheidungen und Anweisungen vorschreibt. Üblicherweise entspricht dabei ein Symbol im Diagramm einem Zustand oder einem Zustandswechsel, und ein konkreter Ablauf entspricht einem Pfad durch das Diagramm. Üblicherweise enthält ein Ablaufdiagramm optionale Pfade und somit fallspezifische Anweisungen.
-Neben der Illustration von Algorithmen eignen sich Ablaufdiagramme zur Darstellung von Prozessen und Tätigkeiten, beispielsweise zur Entscheidungsfindung in Reparaturanleitungen, zur Darstellung von Geschäftsmodellen und in der medizinischen Diagnostik.</description>
-    </item>
-    
-    <item>
-      <title></title>
       <link>/post/klassifikation_produktionsprozesse/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
@@ -147,6 +133,17 @@ Generelle Unterscheidung in
   determiniert in Höhe, Breite
   Stückgüter
  determiniert in Höhe, Breite, Länge    Anzahl der Erzeugnisse  Einprodukt Produktion  ein einziges Produkt als Massenprodukt (Benzin, Diesel)   Mehrprodukt Produktion  mehrere Produktarten    Auflagengröße Massenproduktion: zeitlich nicht begrenzt, große Mengen, Automatisierung</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>/post/warteschlangentheorie/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/post/warteschlangentheorie/</guid>
+      <description>Warteschlangentheorie Einführung Die Warteschlangentheorie kann zur Analyse unterschiedlicher Systeme genutzt werden. Dazu gehören beispielsweise: • Fertigungsstraßen in Betrieben • Logistiksysteme • Telekommunikationssysteme und Computer • Verkehrs- und Infrastruktursysteme
+Das Ziel der Warteschlangentheorie ist die Ermittlung von Wartezeiten innerhalb des Systems zur Optimierung der gesamten Abläufe. In der Regel sollen damit die Gesamtkosten des Systems minimiert werden, um das Unternehmen effektiver zu machen.
+Es werden unter anderem Vorgänge betrachtet, bei denen bestimmte Einheiten oder Transaktionen in unregelmäßigen oder unkontrollierbaren Abständen auf Engpässe treffen.</description>
     </item>
     
   </channel>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Übung on OMUE&#39;s@LITEC</title>
+    <link>/tags/%C3%BCbung/</link>
+    <description>Recent content in Übung on OMUE&#39;s@LITEC</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Sat, 30 Jan 2021 00:00:00 +0000</lastBuildDate><atom:link href="/tags/%C3%BCbung/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Aufgabensammlung ERP Odoo</title>
+      <link>/post/aufgaben_erp/</link>
+      <pubDate>Sat, 30 Jan 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/post/aufgaben_erp/</guid>
+      <description>Aufgabensammlung ERP Odoo  Wie lautet der Aufruf (Link, URL) des ERP Programms und wie lautet Ihr Benutzerzugang?  Wie lautet Ihr Username – ggf. ändern Sie diesen (Mailadresse und Username sollen nicht gleich sein) Welche Kontakte sind als Kunden angelegt, welche als Lieferanten? (vom User LOMUE) Bei welcher Bank hat der Lomue_Lieferant 2 sein Konto liegen? Welche Kontonummer?  Legen Sie eine neue Zahlungsbedingung an - 21 Tage 5% Skonto / 30 Tage netto Wie lautet die Lieferbedingung für &amp;ldquo;der Käufer übernimmt alle Gefahren&amp;rdquo;?</description>
+    </item>
+    
+  </channel>
+</rss>

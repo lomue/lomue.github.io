@@ -3,63 +3,88 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>/home/</loc>
+    <lastmod>2021-02-17T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/categories/bet/</loc>
-    <lastmod>2021-02-16T00:00:00+00:00</lastmod>
+    <lastmod>2021-02-02T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>/categories/</loc>
-    <lastmod>2021-02-16T00:00:00+00:00</lastmod>
+    <lastmod>2021-02-02T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/tags/grundlagen/</loc>
-    <lastmod>2021-02-16T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/labor/</loc>
-    <lastmod>2021-02-16T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/news/</loc>
-    <lastmod>2021-02-16T00:00:00+00:00</lastmod>
+    <loc>/categories/labor/</loc>
+    <lastmod>2021-02-02T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>/</loc>
-    <lastmod>2021-02-16T00:00:00+00:00</lastmod>
+    <lastmod>2021-02-02T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>/post/</loc>
-    <lastmod>2021-02-16T00:00:00+00:00</lastmod>
+    <lastmod>2021-02-02T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/odoo_labor/</loc>
+    <lastmod>2021-02-02T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/prozess/</loc>
+    <lastmod>2021-02-02T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/software/</loc>
+    <lastmod>2021-02-02T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>/tags/</loc>
-    <lastmod>2021-02-16T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/post/test-einer-neuen-linkseite/</loc>
-    <lastmod>2021-02-16T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/post/warteschlangentheorie/</loc>
-    <lastmod>2021-02-16T00:00:00+00:00</lastmod>
+    <lastmod>2021-02-02T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>/tags/theorie/</loc>
-    <lastmod>2021-02-16T00:00:00+00:00</lastmod>
+    <lastmod>2021-02-02T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/news/warteschlangentheorie/</loc>
-    <lastmod>2021-02-16T00:00:00+00:00</lastmod>
+    <loc>/post/aufgaben_erp/</loc>
+    <lastmod>2021-01-30T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/flussdiagramme/</loc>
+    <lastmod>2021-01-30T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/categories/grundlagen/</loc>
+    <lastmod>2021-01-30T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/categories/winf/</loc>
+    <lastmod>2021-01-30T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/%C3%BCbung/</loc>
+    <lastmod>2021-01-30T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/about/</loc>
+    <lastmod>2020-12-09T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -90,16 +115,6 @@
   <url>
     <loc>/post/creating-a-new-theme/</loc>
     <lastmod>2014-09-28T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/news/creating-a-new-theme/</loc>
-    <lastmod>2014-09-28T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/about/</loc>
-    <lastmod>2014-04-09T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -153,11 +168,11 @@
   </url>
   
   <url>
-    <loc>/post/flussdiagramme/</loc>
+    <loc>/post/klassifikation_produktionsprozesse/</loc>
   </url>
   
   <url>
-    <loc>/post/klassifikation_produktionsprozesse/</loc>
+    <loc>/post/warteschlangentheorie/</loc>
   </url>
   
 </urlset>
