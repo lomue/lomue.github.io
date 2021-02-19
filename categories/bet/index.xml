@@ -5,7 +5,24 @@
     <link>/categories/bet/</link>
     <description>Recent content in BET on OMUE&#39;s@LITEC</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Thu, 18 Feb 2021 00:00:00 +0000</lastBuildDate><atom:link href="/categories/bet/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 19 Feb 2021 00:00:00 +0000</lastBuildDate><atom:link href="/categories/bet/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Markdown und Github</title>
+      <link>/post/markdown-und-github/</link>
+      <pubDate>Fri, 19 Feb 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/post/markdown-und-github/</guid>
+      <description>Überblick Übung zur Stärkung des Grundverständnisses und zur praktischen Anwendung von
+ Markdown samt einem Editor (Typora) Git (genauer Github) Pandoc (Optional)  zur Nutzung für die Erstellung technischer Dokumentationen.
+Bedingungen, Vorbereitung Links zum Softwaredownload Github Desktop
+Git
+Typora Markdown Editor
+Pandoc
+Übung Markdown   Installieren Sie einen Markdown Editior (z.B. Typora)
+  Erstellen Sie mit Markdown ein einfaches Übungsdokument mit mind. folgenden Inhalten
+ Normalen Text Text mit einem Absatz Fett gedruckten/angezeigten Text Überschriften (in 3 verschiedenen Größen) Aufzählungen horizontale Linie einen Link zu www.</description>
+    </item>
+    
     <item>
       <title>Klassifikation von Produktionsprozessen</title>
       <link>/post/klassifikation_produktionsprozesse/</link>

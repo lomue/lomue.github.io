@@ -4,12 +4,47 @@
   
   <url>
     <loc>/categories/bet/</loc>
-    <lastmod>2021-02-18T00:00:00+00:00</lastmod>
+    <lastmod>2021-02-19T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>/categories/</loc>
-    <lastmod>2021-02-18T00:00:00+00:00</lastmod>
+    <lastmod>2021-02-19T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/grundlagen/</loc>
+    <lastmod>2021-02-19T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/labor/</loc>
+    <lastmod>2021-02-19T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/markdown-und-github/</loc>
+    <lastmod>2021-02-19T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/</loc>
+    <lastmod>2021-02-19T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/</loc>
+    <lastmod>2021-02-19T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/</loc>
+    <lastmod>2021-02-19T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/categories/winf/</loc>
+    <lastmod>2021-02-19T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -19,21 +54,6 @@
   
   <url>
     <loc>/post/klassifikation_produktionsprozesse/</loc>
-    <lastmod>2021-02-18T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/</loc>
-    <lastmod>2021-02-18T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/post/</loc>
-    <lastmod>2021-02-18T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/</loc>
     <lastmod>2021-02-18T00:00:00+00:00</lastmod>
   </url>
   
@@ -53,11 +73,6 @@
   </url>
   
   <url>
-    <loc>/tags/labor/</loc>
-    <lastmod>2021-02-02T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>/post/odoo_labor/</loc>
     <lastmod>2021-02-02T00:00:00+00:00</lastmod>
   </url>
@@ -69,11 +84,6 @@
   
   <url>
     <loc>/tags/software/</loc>
-    <lastmod>2021-02-02T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/categories/winf/</loc>
     <lastmod>2021-02-02T00:00:00+00:00</lastmod>
   </url>
   

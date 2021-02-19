@@ -5,16 +5,22 @@
     <link>/tags/grundlagen/</link>
     <description>Recent content in Grundlagen on OMUE&#39;s@LITEC</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Tue, 16 Feb 2021 00:00:00 +0000</lastBuildDate><atom:link href="/tags/grundlagen/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 19 Feb 2021 00:00:00 +0000</lastBuildDate><atom:link href="/tags/grundlagen/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Warteschlangentheorie in News</title>
-      <link>/news/warteschlangentheorie/</link>
-      <pubDate>Tue, 16 Feb 2021 00:00:00 +0000</pubDate>
+      <title>Markdown und Github</title>
+      <link>/post/markdown-und-github/</link>
+      <pubDate>Fri, 19 Feb 2021 00:00:00 +0000</pubDate>
       
-      <guid>/news/warteschlangentheorie/</guid>
-      <description>Warteschlangentheorie Einführung Die Warteschlangentheorie kann zur Analyse unterschiedlicher Systeme genutzt werden. Dazu gehören beispielsweise:
- Fertigungsstraßen in Betrieben Logistiksysteme Telekommunikationssysteme und Computer Verkehrs- und Infrastruktursysteme  Das Ziel der Warteschlangentheorie ist die Ermittlung von Wartezeiten innerhalb des Systems zur Optimierung der gesamten Abläufe. In der Regel sollen damit die Gesamtkosten des Systems minimiert werden, um das Unternehmen effektiver zu machen.
-Es werden unter anderem Vorgänge betrachtet, bei denen bestimmte Einheiten oder Transaktionen in unregelmäßigen oder unkontrollierbaren Abständen auf Engpässe treffen.</description>
+      <guid>/post/markdown-und-github/</guid>
+      <description>Überblick Übung zur Stärkung des Grundverständnisses und zur praktischen Anwendung von
+ Markdown samt einem Editor (Typora) Git (genauer Github) Pandoc (Optional)  zur Nutzung für die Erstellung technischer Dokumentationen.
+Bedingungen, Vorbereitung Links zum Softwaredownload Github Desktop
+Git
+Typora Markdown Editor
+Pandoc
+Übung Markdown   Installieren Sie einen Markdown Editior (z.B. Typora)
+  Erstellen Sie mit Markdown ein einfaches Übungsdokument mit mind. folgenden Inhalten
+ Normalen Text Text mit einem Absatz Fett gedruckten/angezeigten Text Überschriften (in 3 verschiedenen Größen) Aufzählungen horizontale Linie einen Link zu www.</description>
     </item>
     
   </channel>
