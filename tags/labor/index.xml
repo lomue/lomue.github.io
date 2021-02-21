@@ -18,9 +18,38 @@ Bedingungen, Vorbereitung Links zum Softwaredownload Github Desktop
 Git
 Typora Markdown Editor
 Pandoc
-Übung Markdown   Installieren Sie einen Markdown Editior (z.B. Typora)
-  Erstellen Sie mit Markdown ein einfaches Übungsdokument mit mind. folgenden Inhalten
- Normalen Text Text mit einem Absatz Fett gedruckten/angezeigten Text Überschriften (in 3 verschiedenen Größen) Aufzählungen horizontale Linie einen Link zu www.</description>
+Übung Markdown Flowchart in Markdown```flowst=start: Startop=operation: Your Operationcond=condition: Yes or No?e=endst-op-condcond(yes)-econd(no)-op```--Bob: Hello Bob, how are you?Note right of Bob: Bob thinksBob-Alice: I am good thanks!</description>
+    </item>
+    
+    <item>
+      <title>Übungen Ablaufdiagramme - Flussdiagramme</title>
+      <link>/post/%C3%BCbungen-flussdiagramme_ablaufdiagramme/</link>
+      <pubDate>Fri, 19 Feb 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/post/%C3%BCbungen-flussdiagramme_ablaufdiagramme/</guid>
+      <description>Übungen zu Ablaufdiagrammen und Flussdiagrammen Ablaufdiagramm Telefonieren Erstellen Sie ein Ablaufdiagramm / Flussdiagramm für ein Telefongespräch
+--Prozessanalyse &amp;ldquo;Beschwerdemanagement&amp;rdquo; Die Klage GmbH hat in der letzten Zeit häufig Beschwerden von unzufriedenen Kunden erhalten. Da der Geschäftsführer Herr Sorglos weiß, dass zufriedene Kunden ein wichtiger Erfolgsfaktor für ein Unternehmen sind, wurde eine Abteilung für das Beschwerdemanagement eingerichtet. Zurzeit können Beschwerden nur auf dem Postweg an das Unternehmen geschickt werden. Nach drei Monaten möchte Herr Sorglos wissen, wie gut die Abläufe in der Abteilung Beschwerdemanagement funktionieren und lässt sich ein Ablaufdiagramm erstellen, das die einzelnen Schritte beim Eingang einer Beschwerde zeigt.</description>
+    </item>
+    
+    <item>
+      <title>Übungen Aufbauorganisation</title>
+      <link>/post/%C3%BCbungen-aufbauorganisation/</link>
+      <pubDate>Fri, 19 Feb 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/post/%C3%BCbungen-aufbauorganisation/</guid>
+      <description>Übungen zum Thema Aufbauorganisation Übung einfaches Organigramm Die Lebensmittelfirma Fritz Wohlleben KG hat etwa 120 Beschäftigte. Erstellen Sie ein Organigramm, das auch Namen der Aufgabenträger enthält! Berücksichtigen Sie dabei folgende Bedingungen:
+ Unternehmensleiter ist der Komplementär Fritz Wohlleben Ihm unterstehen die Abteilungen Beschaffung, Fertigung, Verkauf und Verwaltung Dem Unternehmensleiter ist die Stabstelle Organisation zuzuordnen Das Beschaffungswesen und die Verwaltung enthält je zwei Gruppen  Übung Aufbauorganisationsänderung &amp;ldquo;Software AG&amp;rdquo; Die Firma Software AG vertreibt Personalcomputer.</description>
+    </item>
+    
+    <item>
+      <title>Übungen EPK</title>
+      <link>/post/%C3%BCbungen-epk/</link>
+      <pubDate>Fri, 19 Feb 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/post/%C3%BCbungen-epk/</guid>
+      <description>Übungen zu Ereignisgesteuerten Prozessketten EPK Übung &amp;ldquo;Zauberlehrling&amp;rdquo; Ein Zauberlehrling (nicht Harry Potter) soll für seinen Meister eine neue Rezeptur ausprobieren. Er hat dazu folgenden Zettel mit einer Anleitung erhalten:
+Beginn Experiment
+ 200 ml Echsenblut in ein Gefäß geben 2 Flügel eines Feuerkäfers dazugeben Entweder 3 Beine einer Kellerspinne ODER 2 Augen eines Zitteraals (beides ist auch möglich) Unter Rühren über offener Flamme erhitzen (parallel) Das Gefäß verschließen und nochmals gut schütteln  Ende Experiment</description>
     </item>
     
     <item>
@@ -30,8 +59,8 @@ Pandoc
       
       <guid>/post/odoo_labor/</guid>
       <description>ERP System &amp;ldquo;Odoo&amp;rdquo; Produktion / Fertigung Fertigung ist grundsätzlich nur eine weitere &amp;ldquo;Route&amp;rdquo; wie Produkte beschafft werden können.
-MakeToOrder und MakeToStock sind möglich (und alle Unterarten wie AssebleToOrder, etc)
-Stammdaten  Alle Stammdaten der anderen Module (Verkauf, Einkauf, Artikel, etc) Stücklisten (BoM)  Set (Bausatz) Stücklisten für Produktion   Arbeitsplätze Arbeitspläne  Vorbedingungen, Vorbereitungen  alle Komponenten welche in BoM eingehen müssen als Produkte angelegt sein Arbeitsplätze anlegen  Alle in den Arbeitsplänen als Ressourcen angelegte Arbeitsplätze, Abteilungen, etc.</description>
+MakeToOrder und MakeToStock sind möglich (und alle Unterarten wie AssembleToOrder, etc)
+Stammdaten  Alle Stammdaten der anderen Module (Verkauf, Einkauf, Artikel, etc) Stücklisten (BoM)  Set (Bausatz) Stücklisten für Produktion   Arbeitsplätze Arbeitspläne  Vorbedingungen, Vorbereitungen  alle Komponenten welche in BoM eingehen, müssen als Produkte angelegt sein Arbeitsplätze anlegen  Alle in den Arbeitsplänen als Ressourcen angelegte Arbeitsplätze, Abteilungen, Maschinen etc.</description>
     </item>
     
     <item>

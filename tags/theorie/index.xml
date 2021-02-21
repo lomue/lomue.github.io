@@ -5,7 +5,22 @@
     <link>/tags/theorie/</link>
     <description>Recent content in Theorie on OMUE&#39;s@LITEC</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Thu, 18 Feb 2021 00:00:00 +0000</lastBuildDate><atom:link href="/tags/theorie/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 19 Feb 2021 00:00:00 +0000</lastBuildDate><atom:link href="/tags/theorie/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Markdown und Github</title>
+      <link>/post/markdown-und-github/</link>
+      <pubDate>Fri, 19 Feb 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/post/markdown-und-github/</guid>
+      <description>Überblick Übung zur Stärkung des Grundverständnisses und zur praktischen Anwendung von
+ Markdown samt einem Editor (Typora) Git (genauer Github) Pandoc (Optional)  zur Nutzung für die Erstellung technischer Dokumentationen.
+Bedingungen, Vorbereitung Links zum Softwaredownload Github Desktop
+Git
+Typora Markdown Editor
+Pandoc
+Übung Markdown Flowchart in Markdown```flowst=start: Startop=operation: Your Operationcond=condition: Yes or No?e=endst-op-condcond(yes)-econd(no)-op```--Bob: Hello Bob, how are you?Note right of Bob: Bob thinksBob-Alice: I am good thanks!</description>
+    </item>
+    
     <item>
       <title>Klassifikation von Produktionsprozessen</title>
       <link>/post/klassifikation_produktionsprozesse/</link>
@@ -19,7 +34,7 @@
   Geformte Fließgüter
   determiniert in Höhe, Breite
   Stückgüter
- determiniert in Höhe, Breite, Länge    Anzahl der Erzeugnisse  Einprodukt Produktion  ein einziges Produkt als Massenprodukt (Benzin, Diesel)   Mehrprodukt Produktion  mehrere Produktarten    Auflagengröße Massenproduktion: zeitlich nicht begrenzt, große Mengen, Automatisierung</description>
+ determiniert in Höhe, Breite, Länge      Ungeformte Fließgüter`</description>
     </item>
     
     <item>
@@ -31,17 +46,6 @@
       <description>Warteschlangentheorie Einführung Die Warteschlangentheorie kann zur Analyse unterschiedlicher Systeme genutzt werden. Dazu gehören beispielsweise:
  Fertigungsstraßen in Betrieben Logistiksysteme Telekommunikationssysteme und Computer Verkehrs- und Infrastruktursysteme  Das Ziel der Warteschlangentheorie ist die Ermittlung von Wartezeiten innerhalb des Systems zur Optimierung der gesamten Abläufe. In der Regel sollen damit die Gesamtkosten des Systems minimiert werden, um das Unternehmen effektiver zu machen.
 Es werden unter anderem Vorgänge betrachtet, bei denen bestimmte Einheiten oder Transaktionen in unregelmäßigen oder unkontrollierbaren Abständen auf Engpässe treffen.</description>
-    </item>
-    
-    <item>
-      <title>Produktionsprozess mit Odoo</title>
-      <link>/post/odoo_labor/</link>
-      <pubDate>Tue, 02 Feb 2021 00:00:00 +0000</pubDate>
-      
-      <guid>/post/odoo_labor/</guid>
-      <description>ERP System &amp;ldquo;Odoo&amp;rdquo; Produktion / Fertigung Fertigung ist grundsätzlich nur eine weitere &amp;ldquo;Route&amp;rdquo; wie Produkte beschafft werden können.
-MakeToOrder und MakeToStock sind möglich (und alle Unterarten wie AssebleToOrder, etc)
-Stammdaten  Alle Stammdaten der anderen Module (Verkauf, Einkauf, Artikel, etc) Stücklisten (BoM)  Set (Bausatz) Stücklisten für Produktion   Arbeitsplätze Arbeitspläne  Vorbedingungen, Vorbereitungen  alle Komponenten welche in BoM eingehen müssen als Produkte angelegt sein Arbeitsplätze anlegen  Alle in den Arbeitsplänen als Ressourcen angelegte Arbeitsplätze, Abteilungen, etc.</description>
     </item>
     
     <item>

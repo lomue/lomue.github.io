@@ -13,7 +13,7 @@
   </url>
   
   <url>
-    <loc>/tags/grundlagen/</loc>
+    <loc>/categories/ft/</loc>
     <lastmod>2021-02-19T00:00:00+00:00</lastmod>
   </url>
   
@@ -43,22 +43,37 @@
   </url>
   
   <url>
+    <loc>/tags/theorie/</loc>
+    <lastmod>2021-02-19T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/categories/winf/</loc>
     <lastmod>2021-02-19T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/categories/grundlagen/</loc>
+    <loc>/post/%C3%BCbungen-flussdiagramme_ablaufdiagramme/</loc>
+    <lastmod>2021-02-19T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/%C3%BCbungen-aufbauorganisation/</loc>
+    <lastmod>2021-02-19T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/%C3%BCbungen-epk/</loc>
+    <lastmod>2021-02-19T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/grundlagen/</loc>
     <lastmod>2021-02-18T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>/post/klassifikation_produktionsprozesse/</loc>
-    <lastmod>2021-02-18T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/theorie/</loc>
     <lastmod>2021-02-18T00:00:00+00:00</lastmod>
   </url>
   
@@ -78,27 +93,12 @@
   </url>
   
   <url>
-    <loc>/tags/prozess/</loc>
-    <lastmod>2021-02-02T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/software/</loc>
-    <lastmod>2021-02-02T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>/post/aufgaben_erp/</loc>
     <lastmod>2021-01-30T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>/post/flussdiagramme/</loc>
-    <lastmod>2021-01-30T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/%C3%BCbung/</loc>
     <lastmod>2021-01-30T00:00:00+00:00</lastmod>
   </url>
   
