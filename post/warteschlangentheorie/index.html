@@ -129,6 +129,13 @@ Es werden unter anderem Vorgänge betrachtet, bei denen bestimmte Einheiten oder
 <p>Das Ziel der Warteschlangentheorie ist die Ermittlung von Wartezeiten innerhalb des Systems zur Optimierung der gesamten Abläufe. In der Regel sollen damit die Gesamtkosten des Systems minimiert werden, um das Unternehmen effektiver zu machen.</p>
 <p>Es werden unter anderem Vorgänge betrachtet, bei denen bestimmte Einheiten oder Transaktionen in unregelmäßigen oder unkontrollierbaren Abständen auf Engpässe treffen. Hier werden die ankommenden Einheiten abgefertigt, wobei es zu Wartezeiten kommen kann.</p>
 <p><img src="/assets/Warteschlangentheorie.assets/Warteschlange_1.png" alt="Warteschlange_1" style="zoom: 80%;" /></p>
+<!--
+
+****
+
+> > <img src="assets/Warteschlangentheorie.assets/Warteschlangentheorie.png" alt="Warteschlangentheorie" style="zoom:30%;" />
+***
+-->
 <h2 id="ein-beispiel-als-einführung">Ein Beispiel als Einführung</h2>
 <p>Die Verpackungs- und Versandabteilung einer Firma ist 12 Stunden am Tag besetzt, wobei pro Tag 300 Schreibsets die Abteilung erreichen. Die Verpackung und der Versand eines Schreibsets dauert durchschnittlich 2 Minuten.</p>
 <h2 id="fragen">Fragen</h2>
@@ -155,13 +162,11 @@ Es werden unter anderem Vorgänge betrachtet, bei denen bestimmte Einheiten oder
 \frac{1}{\mu}
 $$</p>
 <ul>
-<li>ρ=Auslastung</li>
-</ul>
-<p>$$
-\begin{align*}
+<li>ρ=Auslastung
+$$
 \rho=\frac{\lambda}{\mu}
-\end{align*}
-$$</p>
+$$</li>
+</ul>
 <h2 id="antworten-auf-die-fragen">Antworten auf die Fragen</h2>
 <h3 id="ad-1--ankunftsrate-outputrate-auslastung">ad 1  Ankunftsrate, Outputrate, Auslastung</h3>
 <p>ad 1 <strong>Ankunftsrate</strong></p>
@@ -176,7 +181,7 @@ $$</p>
 <p>$$Wq=Ws-1/\mu=12-2 Minuten = 10 Minuten$$</p>
 <p>$$Wq=\frac{\rho}{(\mu-\lambda)}= \frac{\lambda}{\mu(\mu-\lambda)}=25/(30(30-25))=0,1666 Stunden = 10 Minuten$$</p>
 <h3 id="ad-4-anzahl-sets-in-der-warteschlange">ad 4 Anzahl Sets in der Warteschlange</h3>
-<p>$$Lq=(\rho*\lambda)/(\mu-\lambda)=\frac{ \lambda^{2} }{ \mu-(\mu-\lambda }=\frac{0,8333*25}{30-25}=4,167 Sets warten im Schnitt$$</p>
+<p>$$Lq=(\rho*\lambda)/(\mu-\lambda)=\frac{ \lambda^{2} }{ \mu(\mu-\lambda }=\frac{0,8333*25}{30-25}=4,167 Sets warten im Schnitt$$</p>
 <h3 id="ad-5-anzahl-sets-in-der-abteilung">ad 5 Anzahl Sets in der Abteilung</h3>
 <p>$$Ls=\lambda/(\mu-\lambda)=25/(30-15)=5 Sets sind im System (wartend oder bearbeitend)$$</p>
 <h2 id="formelsammlung-warteschlangentheorie"><strong>Formelsammlung Warteschlangentheorie</strong></h2>

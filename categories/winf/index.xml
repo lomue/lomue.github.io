@@ -5,7 +5,16 @@
     <link>/categories/winf/</link>
     <description>Recent content in WINF on OMUE&#39;s@LITEC</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Fri, 19 Feb 2021 00:00:00 +0000</lastBuildDate><atom:link href="/categories/winf/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 21 Feb 2021 00:00:00 +0000</lastBuildDate><atom:link href="/categories/winf/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Scrum - Agiles Projektmanagement</title>
+      <link>/post/scrum-agiles-projektmanagement/</link>
+      <pubDate>Sun, 21 Feb 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/post/scrum-agiles-projektmanagement/</guid>
+      <description>Scrum  Für komplexe Projekte Entstanden aus Softwareprojekten Geht davon aus, dass sich nicht sämtliche Anforderungen am Anfang eines Projektes definieren lassen Besteht aus  Rollen Artefakten Prinzipien Meetings Werten/Kultur    SCRUM (dichter Haufen, Knäuel beim Rugby) = Methode eines AGILEN PMSCRUM-Der Kerngedanke: Wenn alle ausgefeilten Methoden, Werkzeuge und Vorgehensweisen im klassischen Projektmanagement nicht zu den erwünschten Erfolgen führen, dann lasst das doch einfach sein. Vertraut darauf, dass ein erfahrenes Projektteam es schon irgendwie schaukeln wird, wenn es die Freiheiten dazu hat, wenn der Projektfortschritt für alle immer transparent ist und wenn sich die Projektmitarbeiter täglich abstimmen.</description>
+    </item>
+    
     <item>
       <title>Markdown und Github</title>
       <link>/post/markdown-und-github/</link>
@@ -18,7 +27,7 @@ Bedingungen, Vorbereitung Links zum Softwaredownload Github Desktop
 Git
 Typora Markdown Editor
 Pandoc
-Übung Markdown Flowchart in Markdown```flowst=start: Startop=operation: Your Operationcond=condition: Yes or No?e=endst-op-condcond(yes)-econd(no)-op```--Bob: Hello Bob, how are you?Note right of Bob: Bob thinksBob-Alice: I am good thanks!</description>
+Übung Markdown Erklärung warum Markdown, Vorteile, Nachteile, Unterschied zu html Beispiele für Markdown (Wikimedia, CMS Systeme, Wordpress, viele Bloggingsysteme, Technische Dokus, Latex (Uni), usw. Markdowneditor im Internet zeigen (z.</description>
     </item>
     
     <item>

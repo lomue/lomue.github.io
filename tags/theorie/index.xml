@@ -5,7 +5,28 @@
     <link>/tags/theorie/</link>
     <description>Recent content in Theorie on OMUE&#39;s@LITEC</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Fri, 19 Feb 2021 00:00:00 +0000</lastBuildDate><atom:link href="/tags/theorie/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 24 Feb 2021 00:00:00 +0000</lastBuildDate><atom:link href="/tags/theorie/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Standardabweichung</title>
+      <link>/post/standardabweichung/</link>
+      <pubDate>Wed, 24 Feb 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/post/standardabweichung/</guid>
+      <description>Varianz, Standardabweichung, Varianzkoeffizient Einführung Immer wenn wir wissen möchten, wie weit eine Zufallsgröße oder eine Stichprobengröße von ihrem Mittelwert entfernt ist, benötigen wir die oben angeführt statistischen Größen.
+Bsp. zur Motivation:
+ Wir wissen bspw. durch eine Befragung (1000 Personen) , dass durchschnittlich 4,5€ für ein Mittagessen wochentags in einem bestimmten Stadtteil ausgegeben werden.
+Wir möchten aber bspw. wissen (abschätzen), wie Preissensitiv die Mittagesser sind - d.h. wie hoch könnten wir den Preis ansetzen ohne zu viele Gäste zu verlieren?</description>
+    </item>
+    
+    <item>
+      <title>Scrum - Agiles Projektmanagement</title>
+      <link>/post/scrum-agiles-projektmanagement/</link>
+      <pubDate>Sun, 21 Feb 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/post/scrum-agiles-projektmanagement/</guid>
+      <description>Scrum  Für komplexe Projekte Entstanden aus Softwareprojekten Geht davon aus, dass sich nicht sämtliche Anforderungen am Anfang eines Projektes definieren lassen Besteht aus  Rollen Artefakten Prinzipien Meetings Werten/Kultur    SCRUM (dichter Haufen, Knäuel beim Rugby) = Methode eines AGILEN PMSCRUM-Der Kerngedanke: Wenn alle ausgefeilten Methoden, Werkzeuge und Vorgehensweisen im klassischen Projektmanagement nicht zu den erwünschten Erfolgen führen, dann lasst das doch einfach sein. Vertraut darauf, dass ein erfahrenes Projektteam es schon irgendwie schaukeln wird, wenn es die Freiheiten dazu hat, wenn der Projektfortschritt für alle immer transparent ist und wenn sich die Projektmitarbeiter täglich abstimmen.</description>
+    </item>
+    
     <item>
       <title>Markdown und Github</title>
       <link>/post/markdown-und-github/</link>
@@ -18,7 +39,7 @@ Bedingungen, Vorbereitung Links zum Softwaredownload Github Desktop
 Git
 Typora Markdown Editor
 Pandoc
-Übung Markdown Flowchart in Markdown```flowst=start: Startop=operation: Your Operationcond=condition: Yes or No?e=endst-op-condcond(yes)-econd(no)-op```--Bob: Hello Bob, how are you?Note right of Bob: Bob thinksBob-Alice: I am good thanks!</description>
+Übung Markdown Erklärung warum Markdown, Vorteile, Nachteile, Unterschied zu html Beispiele für Markdown (Wikimedia, CMS Systeme, Wordpress, viele Bloggingsysteme, Technische Dokus, Latex (Uni), usw. Markdowneditor im Internet zeigen (z.</description>
     </item>
     
     <item>
@@ -29,12 +50,10 @@ Pandoc
       <guid>/post/klassifikation_produktionsprozesse/</guid>
       <description>Klassifikation von Produktionsprozessen Generelle Unterscheidung in
  Güterproduktion Dienstleistungsproduktion  Güterproduktion Kriterien für Klassifizierung Outputbezogene Produktionstypen Erzeugnisstruktur Erzeugnisstruktur ist in den Stücklisten dargestellt
- Lineare Struktur Konvergierende Struktur Divergierende Struktur Generelle Struktur  Gestalt der Güter   Ungeformte Fließgüter
-  nicht determiniert in Höhe, Breite, Länge
-  Geformte Fließgüter
-  determiniert in Höhe, Breite
-  Stückgüter
- determiniert in Höhe, Breite, Länge      Ungeformte Fließgüter`</description>
+ Lineare Struktur Konvergierende Struktur Divergierende Struktur Generelle Struktur  ***-- Gestalt der Güter   Ungeformte Fließgüter
+ nicht determiniert in Höhe, Breite, Länge    Geformte Fließgüter
+ determiniert in Höhe, Breite    Stückgüter
+ determiniert in Höhe, Breite, Länge     - Ungeformte Fließgüter` - nicht determiniert in Höhe, Breite, Länge` - Bier, Gas - Geformte Fließgüter - determiniert in Höhe, Breite - Seile, Drähte - Stückgüter - determiniert in Höhe, Breite, Länge - Schrauben, Schuhe,***--Anzahl der Erzeugnisse  Einprodukt Produktion  ein einziges Produkt als Massenprodukt (Benzin, Diesel)   Mehrprodukt Produktion  mehrere Produktarten    Auflagengröße Massenproduktion: zeitlich nicht begrenzt, große Mengen, Automatisierung</description>
     </item>
     
     <item>

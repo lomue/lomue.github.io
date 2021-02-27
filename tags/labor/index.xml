@@ -5,7 +5,19 @@
     <link>/tags/labor/</link>
     <description>Recent content in Labor on OMUE&#39;s@LITEC</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Fri, 19 Feb 2021 00:00:00 +0000</lastBuildDate><atom:link href="/tags/labor/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 25 Feb 2021 00:00:00 +0000</lastBuildDate><atom:link href="/tags/labor/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Übungen Warteschlangen</title>
+      <link>/post/%C3%BCbungen-warteschlangen/</link>
+      <pubDate>Thu, 25 Feb 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/post/%C3%BCbungen-warteschlangen/</guid>
+      <description>Übungen Warteschlangentheorie Übung Eisverkäufer Stellen Sie sich einen Eisverkäufer vor.
+Folgende Daten haben Sie gemessen:
+ pro Stunde kommen durchschnittlich 80 Kunden für die Zubereitung eines Eis benötigt der Eisverkäufer durchschnittlich 30 Sekunden Sie können von einer Normalverteilung ausgehen  Berechnen Sie folgende Größen zur Beurteilung des Prozesses:
+ Auslastung? Wie lange ist durchschnittliche Schlange von Kunden vor dem Eisverkäufer? Wie viele Kunden warten oder werden gerade bedient (Kunden im System)?</description>
+    </item>
+    
     <item>
       <title>Markdown und Github</title>
       <link>/post/markdown-und-github/</link>
@@ -18,7 +30,7 @@ Bedingungen, Vorbereitung Links zum Softwaredownload Github Desktop
 Git
 Typora Markdown Editor
 Pandoc
-Übung Markdown Flowchart in Markdown```flowst=start: Startop=operation: Your Operationcond=condition: Yes or No?e=endst-op-condcond(yes)-econd(no)-op```--Bob: Hello Bob, how are you?Note right of Bob: Bob thinksBob-Alice: I am good thanks!</description>
+Übung Markdown Erklärung warum Markdown, Vorteile, Nachteile, Unterschied zu html Beispiele für Markdown (Wikimedia, CMS Systeme, Wordpress, viele Bloggingsysteme, Technische Dokus, Latex (Uni), usw. Markdowneditor im Internet zeigen (z.</description>
     </item>
     
     <item>
